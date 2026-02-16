@@ -25,32 +25,20 @@ Vanderbilt University <br>
 ### Week 5
 
 ### Week 6
-[HST WFC3 unit conversion notebook](https://github.com/spacetelescope/WFC3Library/blob/master/notebooks/flux_conversion_tool/flux_conversion_tool.ipynb) <br>
-[Flux conversion example](http://stsdas.stsci.edu/astropy_synphot/synphot/units.html) <br>
-[List of SYNPHOT units](https://synphot.readthedocs.io/en/latest/synphot/units.html) <br>
-[SYNPHOT photometric properties](https://synphot.readthedocs.io/en/latest/synphot/formulae.html) <br>
-[SYNPHOT](https://synphot.readthedocs.io/en/latest/) <br>
-[STSYNPHOT](https://stsynphot.readthedocs.io/en/latest/) <br>
 [Git](https://git-scm.com/downloads/) <br>
-
-<!-- Upcoming resources are commented out
-[Git](https://git-scm.com/downloads/) <br>
-
-### Week 4
-
-### Week 5
-[HST WFC3 unit conversion notebook](https://github.com/spacetelescope/WFC3Library/blob/master/notebooks/flux_conversion_tool/flux_conversion_tool.ipynb) <br>
-[Flux conversion example](http://stsdas.stsci.edu/astropy_synphot/synphot/units.html) <br>
-[List of SYNPHOT units](https://synphot.readthedocs.io/en/latest/synphot/units.html) <br>
-[SYNPHOT photometric properties](https://synphot.readthedocs.io/en/latest/synphot/formulae.html) <br>
-[SYNPHOT](https://synphot.readthedocs.io/en/latest/) <br>
-[STSYNPHOT](https://stsynphot.readthedocs.io/en/latest/) <br>
-
-
-### Week 6
-[Astropy CCD Reduction and Photometry Guide -- READ THIS!](https://github.com/astropy/ccd-reduction-and-photometry-guide/tree/main) <br>
 
 ### Week 7
+[HST WFC3 unit conversion notebook](https://github.com/spacetelescope/WFC3Library/blob/master/notebooks/flux_conversion_tool/flux_conversion_tool.ipynb) <br>
+[Flux conversion example](http://stsdas.stsci.edu/astropy_synphot/synphot/units.html) <br>
+[List of SYNPHOT units](https://synphot.readthedocs.io/en/latest/synphot/units.html) <br>
+[SYNPHOT photometric properties](https://synphot.readthedocs.io/en/latest/synphot/formulae.html) <br>
+[SYNPHOT](https://synphot.readthedocs.io/en/latest/) <br>
+[STSYNPHOT](https://stsynphot.readthedocs.io/en/latest/) <br>
+[Astropy CCD Reduction and Photometry Guide -- READ THIS!](https://github.com/astropy/ccd-reduction-and-photometry-guide/tree/main) <br>
+
+<!-- Upcoming resources are commented out
+
+
 
 ### Week 8
 [glob](https://docs.python.org/3/library/glob.html) <br>

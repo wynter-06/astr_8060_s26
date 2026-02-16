@@ -21,7 +21,9 @@ Vanderbilt University <br>
 | <ins>February</ins><br> T 3 |  <br> Detectors, Statistics                                    |[[notes]](./notes/ASTR8060_notes_detectors_stats.pdf)[[links]](RESOURCES.md#week-5) Chromey Ch. 2,7.3-7.8,8, Howell Ch. 1-2 |
 | R 5                         | Signal to noise                                                |[[notes]](./notes/ASTR8060_notes_SN.pdf)[[links]](RESOURCES.md#week-5) Howell Ch. 4.4 |
 | T 10                        | Photometry: calibration                                        |[[notes]](./notes/ASTR8060_notes_reductions.pdf)[[links]](RESOURCES.md#week-6) Chromey Ch. 9, Howell Ch. 4 |
-| R 12                        | Git and Python                                                 |[[git]](./notebooks/git_primer.ipynb)[[python]](./notebooks/python_setup.ipynb)[[links]](RESOURCES.md#week-6) [[exercises]](./notebooks/flux_convert.ipynb)|
+| R 12                        | Git and Python                                                 |[[git]](./notebooks/git_primer.ipynb)[[links]](RESOURCES.md#week-6) [[exercises]](./notebooks/flux_convert.ipynb)|
+| T 17                        | Python, setup and flux conversions                             |[[python]](./notebooks/python_setup.ipynb)[[links]](RESOURCES.md#week-7) [[exercises]](./notebooks/flux_convert.ipynb)|
+| R 19                        | Computing: image combination                                   |[[notes]](./notebooks/image_combination.ipynb)[[links]](RESOURCES.md#week-7)|
 <!-- Upcoming activities are commented out
 | R 5                         | Python, setup and flux conversions                             |[[notes]](./notebooks/python_setup.ipynb)[[links]](RESOURCES.md#week-5) [[exercises]](./notebooks/flux_convert.ipynb)|
 | R 5                         | Photometry: calibration types                                  |[[notes]](./notes/ASTR8060_notes_reductions.pdf)[[links]](RESOURCES.md#week-6) Chromey Ch. 9, Howell Ch. 4 |
@@ -53,6 +55,7 @@ Vanderbilt University <br>
 * [Homework 1](./hw/HW1.pdf) (due 01/20/2026 @ 09:30am CST; [Solution](./hw/ASTR8060_HW1_solution.pdf)
 * [Homework 2](./hw/HW2.pdf) (due 02/10/2026 @ 09:30am CST; [Solution](./hw/ASTR8060_HW2_solution.pdf)
 * [Homework 3](./hw/HW3.pdf) (due 02/24/2026 @ 09:30am CST)
+* [Homework 4](./hw/HW4.pdf) (due 03/17/2026 @ 09:30am CST)
 <!-- Upcoming activities are commented out
 * [Homework 2](./hw/HW2.pdf) (due 02/03/2026 @ 09:30am CST)
 * [Homework 3](./hw/HW3.pdf) (due 02/17/2026 @ 09:30am CST)
