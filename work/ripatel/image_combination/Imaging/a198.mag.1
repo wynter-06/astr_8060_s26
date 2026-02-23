@@ -1,0 +1,123 @@
+#K IRAF       = NOAO/IRAFV2.16.1        version    %-23s     
+#K USER       = chip                    name       %-23s     
+#K HOST       = sonic.uwyo.edu          computer   %-23s     
+#K DATE       = 2018-03-05              yyyy-mm-dd %-23s     
+#K TIME       = 09:25:41                hh:mm:ss   %-23s     
+#K PACKAGE    = apphot                  name       %-23s     
+#K TASK       = phot                    name       %-23s     
+#
+#K SCALE      = 1.                      units      %-23.7g   
+#K FWHMPSF    = 5.                      scaleunit  %-23.7g   
+#K EMISSION   = yes                     switch     %-23b     
+#K DATAMIN    = -100.                   counts     %-23.7g   
+#K DATAMAX    = 65000.                  counts     %-23.7g   
+#K EXPOSURE   = EXPTIME                 keyword    %-23s     
+#K AIRMASS    = AIRMASS                 keyword    %-23s     
+#K FILTER     = FILTER                  keyword    %-23s     
+#K OBSTIME    = DATE-OBS                keyword    %-23s     
+#
+#K NOISE      = poisson                 model      %-23s     
+#K SIGMA      = INDEF                   counts     %-23.7g   
+#K GAIN       = INDEF                   keyword    %-23s     
+#K EPADU      = 2.1                     e-/adu     %-23.7g   
+#K CCDREAD    = INDEF                   keyword    %-23s     
+#K READNOISE  = 5.                      e-         %-23.7g   
+#
+#K CALGORITHM = centroid                algorithm  %-23s     
+#K CBOXWIDTH  = 20.                     scaleunit  %-23.7g   
+#K CTHRESHOLD = 0.                      sigma      %-23.7g   
+#K MINSNRATIO = 1.                      number     %-23.7g   
+#K CMAXITER   = 12                      number     %-23d     
+#K MAXSHIFT   = 12.                     scaleunit  %-23.7g   
+#K CLEAN      = no                      switch     %-23b     
+#K RCLEAN     = 0.                      scaleunit  %-23.7g   
+#K RCLIP      = 0.                      scaleunit  %-23.7g   
+#K KCLEAN     = 4.                      sigma      %-23.7g   
+#
+#K SALGORITHM = centroid                algorithm  %-23s     
+#K ANNULUS    = 14.                     scaleunit  %-23.7g   
+#K DANNULUS   = 8.                      scaleunit  %-23.7g   
+#K SKYVALUE   = 0.                      counts     %-23.7g   
+#K KHIST      = 3.                      sigma      %-23.7g   
+#K BINSIZE    = 0.1                     sigma      %-23.7g   
+#K SMOOTH     = no                      switch     %-23b     
+#K SMAXITER   = 10                      number     %-23d     
+#K SLOCLIP    = 0.                      percent    %-23.7g   
+#K SHICLIP    = 0.                      percent    %-23.7g   
+#K SNREJECT   = 50                      number     %-23d     
+#K SLOREJECT  = 3.                      sigma      %-23.7g   
+#K SHIREJECT  = 3.                      sigma      %-23.7g   
+#K RGROW      = 0.                      scaleunit  %-23.7g   
+#
+#K WEIGHTING  = constant                model      %-23s     
+#K APERTURES  = 3,5,7,9                 scaleunit  %-23s     
+#K ZMAG       = 25.                     zeropoint  %-23.7g   
+#
+#N IMAGE               XINIT     YINIT     ID    COORDS                 LID    \
+#U imagename           pixels    pixels    ##    filename               ##     \
+#F %-23s               %-10.3f   %-10.3f   %-6d  %-23s                  %-6d    
+#
+#N XCENTER    YCENTER    XSHIFT  YSHIFT  XERR    YERR            CIER CERROR   \
+#U pixels     pixels     pixels  pixels  pixels  pixels          ##   cerrors  \
+#F %-14.3f    %-11.3f    %-8.3f  %-8.3f  %-8.3f  %-15.3f         %-5d %-9s      
+#
+#N MSKY           STDEV          SSKEW          NSKY   NSREJ     SIER SERROR   \
+#U counts         counts         counts         npix   npix      ##   serrors  \
+#F %-18.7g        %-15.7g        %-15.7g        %-7d   %-9d      %-5d %-9s      
+#
+#N ITIME          XAIRMASS       IFILTER                OTIME                  \
+#U timeunit       number         name                   timeunit               \
+#F %-18.7g        %-15.7g        %-23s                  %-23s                   
+#
+#N RAPERT   SUM           AREA       FLUX          MAG    MERR   PIER PERROR   \
+#U scale    counts        pixels     counts        mag    mag    ##   perrors  \
+#F %-12.2f  %-14.7g       %-11.7g    %-14.7g       %-7.3f %-6.3f %-5d %-9s      
+#
+a198                   977.854   1038.819  1     nullfile               0      \
+   977.534    1039.584   -0.320  0.765   0.009   0.011          0    NoError   \
+   704.2995       9.660003       3.594221       887    20       0    NoError   \
+   3.             4.101809       INDEF                  07:14:20.000           \
+   3.00     57994.53      28.3552    38023.98      14.743 0.004 0    NoError  *\
+   5.00     97881.07      78.8546    42343.82      14.626 0.004 0    NoError  *\
+   7.00     152075.5      154.5404   43232.83      14.603 0.005 0    NoError  *\
+   9.00     223026.1      254.9639   43455.18      14.598 0.006 0    NoError  * 
+a198                   1099.253  1111.770  2     nullfile               0      \
+   1099.071   1113.195   -0.182  1.425   0.076   0.069          0    NoError   \
+   702.7781       8.284549       3.64748        870    33       0    NoError   \
+   3.             4.101809       INDEF                  07:14:20.000           \
+   3.00     20433.86      28.49939   405.1079      19.674 0.126 0    NoError  *\
+   5.00     55901.34      78.83632   496.9036      19.452 0.171 0    NoError  *\
+   7.00     109145.       154.4146   625.8108      19.202 0.196 0    NoError  *\
+   9.00     179907.       254.8393   811.5556      18.920 0.203 0    NoError  * 
+a198                   1133.223  1101.189  3     nullfile               0      \
+   1133.414   1100.134   0.191   -1.055  0.064   0.047          0    NoError   \
+   702.6304       7.953833       3.783055       866    38       0    NoError   \
+   3.             4.101809       INDEF                  07:14:20.000           \
+   3.00     21054.71      28.598     960.8919      18.736 0.054 0    NoError  *\
+   5.00     56439.78      78.73349   1119.241      18.570 0.075 0    NoError  *\
+   7.00     109431.8      153.9395   1269.292      18.434 0.094 0    NoError  *\
+   9.00     180293.5      254.566    1427.719      18.306 0.112 0    NoError  * 
+a198                   1492.820  1734.116  4     nullfile               0      \
+   1491.183   1733.972   -1.637  -0.144  0.002   0.003          108  BadPixels \
+   718.0215       12.55208       6.087236       889    13       0    NoError   \
+   3.             4.101809       INDEF                  07:14:20.000           \
+   3.00     918870.5      28.44944   898443.2      INDEF  INDEF 305  BadPixels*\
+   5.00     1079749.      78.804     1023166.      INDEF  INDEF 305  BadPixels*\
+   7.00     1159085.      154.4659   1048175.      INDEF  INDEF 305  BadPixels*\
+   9.00     1241367.      254.8985   1058344.      INDEF  INDEF 305  BadPixels* 
+a198                   1473.329  1716.296  5     nullfile               0      \
+   1471.906   1715.895   -1.422  -0.401  0.018   0.021          0    NoError   \
+   703.269        12.64192       8.145888       774    133      0    NoError   \
+   3.             4.101809       INDEF                  07:14:20.000           \
+   3.00     25511.75      28.42617   5520.5        16.838 0.017 0    NoError  *\
+   5.00     61867.72      78.8803    6393.648      16.678 0.022 0    NoError  *\
+   7.00     115449.8      154.4672   6817.805      16.609 0.029 0    NoError  *\
+   9.00     186558.4      254.9919   7230.492      16.545 0.036 0    NoError  * 
+a198                   1341.907  1657.267  6     nullfile               0      \
+   1341.737   1657.410   -0.170  0.143   0.016   0.018          0    NoError   \
+   701.4313       10.26919       5.516494       798    105      0    NoError   \
+   3.             4.101809       INDEF                  07:14:20.000           \
+   3.00     27363.17      28.48996   7379.417      16.523 0.012 0    NoError  *\
+   5.00     63557.91      78.81746   8272.871      16.399 0.015 0    NoError  *\
+   7.00     116733.7      154.2466   8540.299      16.364 0.019 0    NoError  *\
+   9.00     187524.2      254.7614   8826.622      16.328 0.024 0    NoError  * 

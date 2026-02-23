@@ -1,0 +1,7 @@
+a043_bf.fits
+a044_bf.fits
+a045_bf.fits
+a046_bf.fits
+a047_bf.fits
+a048_bf.fits
+a049_bf.fits
