@@ -24,7 +24,7 @@ Vanderbilt University <br>
 | R 12                        | Git and Python                                                 |[[git]](./notebooks/git_primer.ipynb)[[links]](RESOURCES.md#week-6) [[exercises]](./notebooks/flux_convert.ipynb)|
 | T 17                        | Python, setup and flux conversions                             |[[python]](./notebooks/python_setup.ipynb)[[links]](RESOURCES.md#week-7) [[exercises]](./notebooks/flux_convert.ipynb)|
 | R 19                        | Computing: image combination                                   |[[notes]](./notebooks/image_combination.ipynb)[[links]](RESOURCES.md#week-7)|
-| T 24                        | Introduction to final project                                  |[[notes]](./final/)[[links]](RESOURCES.md#final)|
+| T 24                        | Introduction to final project                                  |[[notes]](./notebooks/observing_proposal_preparation.ipynb)[[links]](RESOURCES.md#final)|
 | R 26                        | Computing: data management                                     |[[notes]](./notebooks/data_management.ipynb)[[links]](RESOURCES.md#week-8)|
 | <ins>March</ins><br> T 3    | Computing: overscan subtraction                                |[[notes]](./notebooks/overscan_subtraction.ipynb)[[links]](RESOURCES.md#week-9)|
 | R 5                         | Computing: combining flats                                     |[[notes]](./notebooks/combine_flats.ipynb)[[links]](RESOURCES.md#week-9)|
