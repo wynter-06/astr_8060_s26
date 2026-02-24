@@ -24,6 +24,10 @@ Vanderbilt University <br>
 | R 12                        | Git and Python                                                 |[[git]](./notebooks/git_primer.ipynb)[[links]](RESOURCES.md#week-6) [[exercises]](./notebooks/flux_convert.ipynb)|
 | T 17                        | Python, setup and flux conversions                             |[[python]](./notebooks/python_setup.ipynb)[[links]](RESOURCES.md#week-7) [[exercises]](./notebooks/flux_convert.ipynb)|
 | R 19                        | Computing: image combination                                   |[[notes]](./notebooks/image_combination.ipynb)[[links]](RESOURCES.md#week-7)|
+| T 24                        | Introduction to final project                                  |[[notes]](./notebooks/observing_proposal_preparation.ipynb)[[links]](RESOURCES.md#final)|
+| R 26                        | Computing: data management                                     |[[notes]](./notebooks/data_management.ipynb)[[links]](RESOURCES.md#week-8)|
+| <ins>March</ins><br> T 3    | Computing: overscan subtraction                                |[[notes]](./notebooks/overscan_subtraction.ipynb)[[links]](RESOURCES.md#week-9)|
+| R 5                         | Computing: combining flats                                     |[[notes]](./notebooks/combine_flats.ipynb)[[links]](RESOURCES.md#week-9)|
 <!-- Upcoming activities are commented out
 | R 5                         | Python, setup and flux conversions                             |[[notes]](./notebooks/python_setup.ipynb)[[links]](RESOURCES.md#week-5) [[exercises]](./notebooks/flux_convert.ipynb)|
 | R 5                         | Photometry: calibration types                                  |[[notes]](./notes/ASTR8060_notes_reductions.pdf)[[links]](RESOURCES.md#week-6) Chromey Ch. 9, Howell Ch. 4 |
@@ -65,20 +69,17 @@ Vanderbilt University <br>
 -->
 
 ## Final Project
-Your final project assignment will be to write a NOIRLab observing proposal and conduct a Time Allocation Committee panel. Check back later for resources and deadlines.
-
-<!-- Upcoming activities are commented out
-* [final project](./final/final_project.pdf) telescope/instrument choice due 10/24/2023 @ 09:30am CST <br>
-* [final project](./final/final_project.pdf) draft is due 11/16/2023 @ 09:30am CST <br>
-* [final project](./final/final_project.pdf) final proposal is due 12/7/2023 @ 09:30am CST <br>
-* Preliminary grades are due 12/12/2023 @ 3:00pm CST <br>
+Your final project assignment will be to write a NOIRLab observing proposal and conduct a Time Allocation Committee panel. 
+* [final project](./final/final_project.pdf) topic and telescope/instrument choice due 03/05/2026 @ 09:30am CST <br>
+* [final project](./final/final_project.pdf) outline is due 03/19/2026 @ 09:30am CST <br>
+* [final project](./final/final_project.pdf) draft is due 03/31/2026 @ 09:30am CST <br>
+* [final project](./final/final_project.pdf) final proposal is due 04/9/2023 @ 09:30am CST <br>
+* Preliminary grades are due 04/15/2026 @ 3:00pm CST <br>
 * Final exam is 04/16/2026 @ 09:30-10:45am CST <br>
-* [panel package](./final/T1.zip) is available.<br>
-
+<!--* [panel package](./final/T1.zip) is available.<br>-->
 
 Your [final project assignment](./final/final_project.pdf) will be to write a NOIRLab observing proposal and conduct a Time Allocation Committee panel. Your proposal and panel participation will be graded according to this [rubric](./final/rubric.pdf).
 
 I have collected a number of example observing proposals (kindly shared by other astronomers). However, since some of these are still active research programs I ask that you do not share them outside of this class. In this spirit, they are available from our class Brightspace page for you to download privately. 
 
 You can find [useful links](RESOURCES.md#final) for preparing your proposal, as well as some handy documents including [definitions](./final/definitions.pdf). 
--->
