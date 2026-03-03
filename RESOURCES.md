@@ -50,7 +50,7 @@ Vanderbilt University <br>
 
 ### Final
 [Unconscious bias](https://ui.adsabs.harvard.edu/abs/2019BAAS...51g..41A/abstract) <br>
-[NOIRLab Call for Proposals 2024A](https://noirlab.edu/science/observing-noirlab/proposals/call-for-proposals) <br>
+[NOIRLab Call for Proposals 2026A](https://noirlab.edu/science/observing-noirlab/proposals/call-for-proposals) <br>
 [NOIRLab LaTeX template](https://noirlab.edu/science/observing-noirlab/proposals/attachment/standard-template) <br>
 [Overleaf](https://www.overleaf.com/) <br>
 [Observatory Locations](https://www.google.com/maps/d/u/0/edit?mid=1BMzRO1puXoGhZV7L0NCe6Qu2wXo4y6oW&ll=-0.16413101145116826%2C0&z=2) <br>
